@@ -5,8 +5,17 @@ h2{
     text-decoration: underline;
 }
 div{
+    padding: 10px;
+    margin-bottom: 20px;
     background-color: rgba(239, 217, 68, 0.734);
     text-align: justify;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #313131;
+    border: 20px solid rgba(247, 56, 136, 0.96);
+    border-radius: 10px;
+    border-top: none;
+    border-bottom: none;
+    border-left-width: 50px;
+    border-right-color:rgba(147, 38, 243, 0.951);
 }
